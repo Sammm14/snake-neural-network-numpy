@@ -1,0 +1,20 @@
+{
+  "random policy": {
+    "mean": 0.2,
+    "std": 0.4,
+    "median": 0.0,
+    "max": 1
+  },
+  "basic (11 inputs)": {
+    "mean": 26.5,
+    "std": 8.6,
+    "median": 26.0,
+    "max": 46
+  },
+  "improved (14 inputs)": {
+    "mean": 67.6,
+    "std": 20.4,
+    "median": 69.0,
+    "max": 122
+  }
+}
