@@ -1,12 +1,13 @@
 # Neural network that plays Snake (NumPy only)
 
+
+**[Play the live demo](https://sammm14.github.io/snake-neural-network-numpy/demo.html)**
+
 A Snake agent trained with Q-learning. The neural network, forward pass, loss,
 backpropagation and Adam optimizer are all written by hand in NumPy.
 No PyTorch or TensorFlow.
 
 ![demo](snake.gif)
-
-Live demo: open demo.html in any browser (runs the trained network in JavaScript).
 
 ## Results
 
